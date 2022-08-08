@@ -1,9 +1,9 @@
 # Work Day Schedule
 * ['Challenge-5 GitHub'](https://github.com/jamierachael/Day-Planner)
 * ['Challenge-5 GitHub IO'](https://jamierachael.github.io/Day-Planner/)
-* ['Challenge-5 Demo Video'] [(https://drive.google.com/file/d/1YmGSNpY2jku-e4feAC4cVXLKLKZ9DaVV/view)]
+* ['Challenge-5 Demo Video'](https://drive.google.com/file/d/1YmGSNpY2jku-e4feAC4cVXLKLKZ9DaVV/view)
 
-!Challenge-5 Demo(/Assets/Work Day Schedule.gif)
+!Challenge-5 Demo(/assets/WorkDaySchedule.gif.gif)
 
 ### Summary
 * HTML and CSS and Javascript documents create a day planner with an eight-hour work day
